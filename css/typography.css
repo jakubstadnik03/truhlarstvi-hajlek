@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=PT+Sans:wght@400;700&display=swap');
+:root {
+    --blue: #5E7483;
+    --black: #343434;
+    --white: #F5F5F5;
+    --brown: #988574;
+    --light-gray: #BEBEBE;
+    --dark-gray: #343E45;
+    --gray: #3B3B3B;
+}
+
+
+.title{
+    max-width: 1200px;
+    width: 90%;
+    margin: auto;
+    font-size: 2em;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+h1, h2, h3, h4, h5{
+    font-family: 'PT Sans', sans-serif;
+    text-transform: uppercase;
+    color: var(--black);
+}
+h2{
+    font-size: 2em;
+    letter-spacing: 0.1em;
+}
+.main-title{
+    font-family: 'PT Sans', sans-serif;
+    letter-spacing: 0.2em;
+    font-weight: bold;
+    line-height: 1.2em;
+    text-transform: uppercase;
+    color: var(--black);
+    font-size: 2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding-top: 15px;
+    opacity: 0;
+    animation: fadeUp 1s forwards;
+    animation-delay: .5s;
+}
+p{
+    color: var(--gray);
+    font-size: 15px;
+    
+}
+
+body{
+    font-family: 'DM Sans', sans-serif;
+
+}
+a{
+    font-family: 'DM Sans', sans-serif;
+    font-weight: normal;
+    font-size: 0.9em;
+}
+
+.wrapper{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.white{
+    color: var(--white);
+}
+
+
+
+
+
+
+@media only screen and (min-width:920px) {
+    .main-title{
+        font-size: 5em;
+    }
+    p{
+        font-size: 18px;
+    }
+    h2{
+        font-size: 3em;
+    }
+    .title{
+        font-size: 4em;
+    }
+}

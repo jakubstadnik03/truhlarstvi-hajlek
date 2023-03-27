@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.509" height="76.796" viewBox="0 0 80.509 76.796">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #bebebe;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #988574;
+      }
+    </style>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(2 2.438)">
+    <path id="Path_15" data-name="Path 15" class="cls-1" d="M18.862,5.271,1.47,1.8V73.849l17.392-2.5V48.237L39.724,33.094,18.862,29.623Z" transform="translate(-1.47 -1.8)"/>
+    <path id="Path_16" data-name="Path 16" class="cls-1" d="M42.062,5.271V29.623L21.2,33.094,42.062,48.237V71.348l17.392,2.5V1.8Z" transform="translate(17.054 -1.8)"/>
+    <rect id="Rectangle_44" data-name="Rectangle 44" class="cls-2" width="4.44" height="4.44" transform="translate(31.604 48.24)"/>
+    <rect id="Rectangle_45" data-name="Rectangle 45" class="cls-2" width="4.44" height="4.44" transform="translate(40.484 48.24)"/>
+    <rect id="Rectangle_46" data-name="Rectangle 46" class="cls-2" width="4.44" height="4.44" transform="translate(40.484 57.12)"/>
+    <rect id="Rectangle_47" data-name="Rectangle 47" class="cls-2" width="4.44" height="4.44" transform="translate(31.604 57.12)"/>
+  </g>
+</svg>

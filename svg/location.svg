@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.738" height="25.34" viewBox="0 0 17.738 25.34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bebebe;
+      }
+    </style>
+  </defs>
+  <path id="Icon_material-location-on" data-name="Icon material-location-on" class="cls-1" d="M16.369,3A8.863,8.863,0,0,0,7.5,11.869c0,6.652,8.869,16.471,8.869,16.471s8.869-9.819,8.869-16.471A8.863,8.863,0,0,0,16.369,3Zm0,12.037a3.168,3.168,0,1,1,3.168-3.168A3.169,3.169,0,0,1,16.369,15.037Z" transform="translate(-7.5 -3)"/>
+</svg>
